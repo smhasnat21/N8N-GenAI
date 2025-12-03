@@ -1,0 +1,5 @@
+{
+  "name": "N8N GenAI Agent Builder",
+  "description": "A visual, node-based workflow editor for building and testing Gemini-powered AI agents with tool integrations.",
+  "requestFramePermissions": []
+}
